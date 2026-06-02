@@ -11,3 +11,9 @@
 //Atividade4Matriz.Executar();
 //Atividade5Matriz.Executar();
 //Atividade6Matriz.Executar();
+
+//Atividade1For.Executar();
+//Atividade2For.Executar();
+//Atividade3For.Executar();
+//Atividade4MFor.Executar();
+//Atividade5For.Executar();
